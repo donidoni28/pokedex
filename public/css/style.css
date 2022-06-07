@@ -1,0 +1,77 @@
+img.pokedex{
+    position: absolute;
+    left: 30vw;
+    top: 7em;
+    z-index: 1;
+}
+.description{
+    position: absolute;
+    z-index: 2;
+    left: 60.1vw;
+    top: 16.5rem;
+    width: 15em;
+    color: yellow;
+}
+ul{
+    position: absolute;
+    z-index: 2;
+    left: 39.5vw;
+    top: 23rem;
+    width: 7rem;
+    color: black;
+}
+
+label{
+    position: absolute;
+    z-index: 2;
+    left: 39.5vw;
+    top: 22.5rem;
+    width: 7rem;
+    color: black;
+}
+#poids{
+    position: absolute;
+    z-index: 2;
+    left: 39.5vw;
+    top: 19rem;
+    width: 7rem;
+    color: black;
+}
+#taille{
+    position: absolute;
+    z-index: 2;
+    left: 39.5vw;
+    top: 20rem;
+    width: 7rem;
+    color: black;
+}
+h1#name{
+    position: absolute;
+    z-index: 2;
+    left: 39.5vw;
+    top: 16rem;
+    color: black;
+}
+#previous{
+    position: absolute;
+    z-index: 2;
+    left: 49.1vw;
+    top: 32.9rem;
+    color: yellow;
+}
+#next{
+    position: absolute;
+    z-index: 2;
+    left: 52.3vw;
+    top: 32.9rem;
+    color: yellow;
+}
+#app{
+    position: absolute;
+    top: 20px;
+}
+#app img{
+    position: absolute;
+    top: 20rem;
+    left: 45vw;
+}
